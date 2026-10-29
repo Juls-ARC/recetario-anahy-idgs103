@@ -7,7 +7,6 @@ const recetas = [
     titulo: 'Chilaquiles rojos',
     descripcion:
       'Totopos crujientes bañados en salsa de jitomate y chile guajillo, con crema, queso fresco y cebolla. El desayuno mexicano por excelencia.',
-    emoji: '🌶️',
     color: '#c2410c',
     categoria: 'Desayuno',
     tiempo: 30,
@@ -41,7 +40,6 @@ const recetas = [
     titulo: 'Pan de elote',
     descripcion:
       'Pan húmedo y esponjoso hecho con granos de elote fresco, leche condensada y mantequilla. Perfecto para acompañar un café de olla.',
-    emoji: '🌽',
     color: '#ca8a04',
     categoria: 'Postre',
     tiempo: 60,
